@@ -5,10 +5,12 @@
   "author": "Josh Comeau <me@joshwcomeau.com>",
   "dependencies": {
     "new-component": "4.0.0",
+    "node-sass": "^7.0.3",
     "prettier": "^2.6.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "sass": "^1.66.1"
   },
   "scripts": {
     "start": "react-scripts start",
